@@ -11,7 +11,7 @@ I am interested in backend development, mainly in Python. I also like Go and Jav
 
 <h3 align="center">Statistics</h3>
 <picture>
-  <source media="(prefers-color-scheme: black)" srcset="https://github-readme-stats.vercel.app/api?username=gg-master&show_icons=true&hide_border=true&count_private=true&theme=dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gg-master&show_icons=true&hide_border=true&count_private=true&theme=dark">
   <img alt="gg-master GitHub Status" src="https://github-readme-stats.vercel.app/api?username=gg-master&show_icons=true&hide_border=true&count_private=true&theme=light">
 </picture>
 
